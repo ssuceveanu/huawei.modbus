@@ -1,5 +1,8 @@
 Homey app to receive realtime data from your SolarEdge, Growatt, Sungrow, Huawei, Solax & Wattsonic solar installation using local Modbus TCP
 
+On this fork is for multiple Huawei invertors and batterys.
+Not working yet.
+
 ## Purpose
 The difference of this app and the already existing solar panels app is that this app reads the data directly from the inverter.
 The SolarEdge api is only limited to 300 calls/ day, so you get only updates every 10-15 minutes.
